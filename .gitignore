@@ -1,2 +1,6 @@
 prtscn.so
 __pycache__/
+
+build/*
+dist/*
+i3expod.egg-info/*
